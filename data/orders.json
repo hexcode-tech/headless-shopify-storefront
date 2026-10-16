@@ -1,0 +1,2 @@
+[ ] Note: This orders file is for demo/local development only. In production, use a database (Postgres, MySQL, or a hosted DB) or an external order system.
+[] Orders will be saved here when using the demo checkout or when the server-side creates a pending order for a Stripe session.
